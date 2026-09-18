@@ -28,7 +28,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := z3s
-PRODUCT_NAME := lineage_z3s
+PRODUCT_NAME := aetheria_z3s
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G988B
 PRODUCT_MANUFACTURER := samsung
