@@ -1,4 +1,4 @@
-Copyright 2023 - The LineageOS Project
+[Copyright 2023 - The LineageOS Project
 
 Device configuration for Samsung Galaxy S20 Ultra 5G (SM-G988B).
 ========================================
@@ -20,3 +20,4 @@ Front Camera | 40 MP, f/2.2, 26mm, Dual video call, Auto-HDR
 Release Date | 11 February 2020
 
 ![Samsung Galaxy S20 Ultra](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-ultra-10.jpg)
+](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-ultra-10.jpg)
