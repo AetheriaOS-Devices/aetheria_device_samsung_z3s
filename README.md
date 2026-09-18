@@ -19,4 +19,4 @@ Rear Camera  | 108 MP, f/1.8, 26mm (wide), 48 MP, f/3.5, 102mm (periscope teleph
 Front Camera | 40 MP, f/2.2, 26mm, Dual video call, Auto-HDR
 Release Date | 11 February 2020
 
-![Samsung Galaxy S20 Ultra](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-ultra-.jpg)
+![Samsung Galaxy S20 Ultra](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-ultra-10.jpg)
